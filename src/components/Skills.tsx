@@ -5,7 +5,7 @@ export default function Skills() {
         <div className="section-title text-center">
           <h2 className="text-3xl font-bold m-2 p-2">Skills</h2>
         </div>
-        <div className="flex justify-center gap-3">
+        <div className="flex flex-wrap justify-center gap-3">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg"
             className="h-10 w-10 object-cover"
