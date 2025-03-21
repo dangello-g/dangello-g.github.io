@@ -5,9 +5,9 @@ export default function About() {
     <section id="about" className="m-4">
       <div className="text-center p-2">
         <h2 className="text-3xl font-bold m-2 p-2">D'Angello García</h2>
-        <h4 className="text-2xl">Software Developer</h4>
+        <h4 className="text-2xl">Software Engineer</h4>
 
-        <p className="m-2 p-2">I specialize in backend development. 🚀</p>
+        <p className="m-2 p-2">I specialize in backend engineering. 🚀</p>
         <p className="m-2 p-2">
           I'm currently learning <strong>AI, ML, Go, Kafka</strong>.
         </p>
